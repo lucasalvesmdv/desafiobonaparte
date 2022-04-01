@@ -1,3 +1,11 @@
+## Próposito da aplicação:
+
+* atualização de filmes
+* inserção de novos filmes
+* excluir de filmes
+* busca de filmes
+
+
 ## Pré-requisitos :warning:
 
 Necessário ter o **Node**  e o *MongoDD* instalado na máquina, preferencialmente com a versão **12.18.3** .      
