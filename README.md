@@ -8,7 +8,7 @@
 
 ## Pré-requisitos :warning:
 
-Necessário ter o **Node**  e o *MongoDD* instalado na máquina, preferencialmente com a versão **12.18.3** .      
+Necessário ter o **Node**  e o *MongoDD* instalado na máquina .      
        
 Clone o projeto em seu computador
  
