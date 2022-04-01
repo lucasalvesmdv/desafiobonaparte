@@ -3,7 +3,8 @@
 Necessário ter o **node**  e o *mongoDD* instalado na máquina, preferencialmente com a versão **12.18.3** .      
        
 Clone o projeto em seu computador
- Para popular o banco de dados:   
+ 
+ 
  git clone https://github.com/lucasalvesmdv/desafiobonaparte
 
   
