@@ -1,6 +1,6 @@
 ## Pré-requisitos :warning:
 
-Necessário ter o **node**  e o *mongoDD* instalado na máquina, preferencialmente com a versão **12.18.3** .      
+Necessário ter o **Node**  e o *MongoDD* instalado na máquina, preferencialmente com a versão **12.18.3** .      
        
 Clone o projeto em seu computador
  
@@ -11,9 +11,9 @@ Clone o projeto em seu computador
 
 ## Instalação 
 
-Para instalar e utilizar o frontend acesse **/frontend**:
-`$ npm install`   
-`$ npm start`    
+Abra o projeto no seu editor de codigo, após isso 
+`$ yarn install`   
+`$ yarn dev`    
 
 Para instalar e utilizar o backend **/backend**:
 `$ npm install`    
