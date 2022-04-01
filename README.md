@@ -15,7 +15,7 @@ Abra o projeto no seu editor de codigo, após isso dê os seguintes comandos:
 ` yarn install`   
 ` yarn dev`    
 
-Para ultilizar o banco de dados dê a carga ultilizando os seguintes arquivos:
+Para utilizando o banco de dados, dê a carga ultilizando os seguintes arquivos:
 `https://datasets.imdbws.com/title.basics.tsv.gz`    
 `https://datasets.imdbws.com/title.ratings.tsv.gz`   
         
