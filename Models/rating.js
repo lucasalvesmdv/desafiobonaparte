@@ -33,4 +33,6 @@ const RatingSchema = new Schema({
   },
 });
 
-export default mongoose.model('ratings', RatingSchema);
+const dbRating = mongoose.model('Rating', RatingSchema);
+
+export default dbRating;

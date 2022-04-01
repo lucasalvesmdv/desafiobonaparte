@@ -1,0 +1,10 @@
+### acessando via get
+GET http://localhost:3333/
+###
+POST http://localhost:3333/register
+Content-Type: application/json
+
+{
+  "userName": "Lucas",
+  "userChannel": "mdv"
+}

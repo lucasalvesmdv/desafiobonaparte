@@ -1,7 +1,5 @@
 import mongoose from 'mongoose';
-const {Schema} = mongoose
-
-const MovieSchema = new Schema({
+const movieSchema = new mongoose.Schema({
   tconst: {
     type: String,
     required: true,
@@ -61,4 +59,5 @@ const MovieSchema = new Schema({
   },
 });
 
-export default mongoose.model('movies', MovieSchema);
+const dbMovies = mongoose.model('Movie', movieSchema);
+export default dbMovies
