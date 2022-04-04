@@ -1,12 +1,12 @@
 version: "3.7"
 
 services:
-  mongo:
-  image: mongo
-  container_name: database_bonaparte
-  restart: always
-  ports:
-    - 27017:27017
+  db:
+    image: mongo
+    container_name: database_bonaparte
+    restart: always
+    ports:
+      - 27017:27017
 
   app:
     build: .
